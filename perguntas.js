@@ -1,6 +1,6 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
+    'Programação', 
+    'O que é Python?', 
     'O Python é uma linguagem de programação'
 )
 
@@ -16,9 +16,14 @@ criaCartao(
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
-criaCartao(
+criaCartao (
     'Programação',
- '0 que é JavaScript?',
- '>0 JavaScript é uma linguagem de programação'
+    'O que é JavaScript?',
+    'JavaScript é uma linguagem de programação'
 )
 
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz OI em inglês?',
+    'Oi em inglês é HI (rai)'
+)
