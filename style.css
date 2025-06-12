@@ -22,7 +22,7 @@ body {
     background-color: aqua;
     height: 20rem;
     flex-grow: 1;
-    flex-basis: calc(20% -2rem); /* 5 cartões por linha */
+    flex-basis: calc(20% - 2rem); /* 5 cartões por linha */
 }
 
 .cartao__conteudo {
@@ -101,15 +101,15 @@ footer p {
         background: url('img/bd-mobile.webp');
     }
 
-.cartao {
-    flex: 1 0 calc(100% - 1rem);
-}
+    .cartao {
+        flex: 1 0 calc(100% - 1rem);
+    }
 
-.cartao_conteudo h3 {
-    font-size: 3vw;
-}
+    .cartao__conteudo h3 {
+        font-size: 3vW;
+    }
 
-.cartao__conteudo p {
-    font-size: 3.8vw;
-}
+    .cartao__conteudo p {
+        font-size: 3.8vw;
+    }
 }

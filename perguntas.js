@@ -1,89 +1,89 @@
 criaCartao(
-  'HTML',
-  'O que é HTML?',
-  'HTML é a linguagem de marcação usada para estruturar o conteúdo de páginas web.'
-);
+'HTML',
+'O que significa HTML?',
+'HTML significa HyperText Markup Language (Linguagem de Marcação de Hipertexto).'
+)
 
 criaCartao(
-  'HTML',
-  'Para que serve a tag <p>?',
-  'A tag <p> é usada para definir parágrafos de texto.'
-);
+'HTML',
+'Qual é a função da tag <a> no HTML?',
+'A tag <a> é usada para criar links (âncoras) que direcionam para outras páginas ou seções.'
+)
 
 criaCartao(
-  'HTML',
-  'Qual a função da tag <a>?',
-  'A tag <a> é usada para criar links entre páginas ou seções.'
-);
+'HTML',
+'Para que serve a tag <img>?',
+'A tag <img> serve para incorporar imagens em uma página HTML.'
+)
 
 criaCartao(
-  'HTML',
-  'O que a tag <img> faz?',
-  'A tag <img> insere imagens na página HTML.'
-);
+'HTML',
+'Qual a estrutura básica de um documento HTML?',
+'<!DOCTYPE html>, <html>, <head>, <title> e <body>.'
+)
 
 criaCartao(
-  'HTML',
-  'Qual a diferença entre <ul> e <ol>?',
-  '<ul> cria listas não ordenadas, enquanto <ol> cria listas ordenadas.'
-);
+'HTML',
+'O que faz o atributo "alt" na tag <img>?',
+'Fornece um texto alternativo para a imagem, útil para acessibilidade e quando a imagem não carrega.'
+)
 
 criaCartao(
-  'CSS',
-  'O que é CSS?',
-  'CSS é uma linguagem de estilo usada para definir a aparência de elementos HTML.'
-);
+'CSS',
+'O que significa CSS?',
+'CSS significa Cascading Style Sheets (Folhas de Estilo em Cascata).'
+)
 
 criaCartao(
-  'CSS',
-  'Como mudar a cor do texto com CSS?',
-  'Utilize a propriedade "color". Exemplo: color: red;'
-);
+'CSS',
+'Como aplicar uma cor de fundo a um elemento com CSS?',
+'Usando a propriedade "background-color", ex: background-color: red;'
+)
 
 criaCartao(
-  'CSS',
-  'O que faz a propriedade padding?',
-  'Define o espaço interno entre o conteúdo e a borda do elemento.'
-);
+'CSS',
+'Qual é a diferença entre class e id no CSS?',
+'Class pode ser usada em múltiplos elementos, enquanto id deve ser único por página.'
+)
 
 criaCartao(
-  'CSS',
-  'Para que serve a propriedade display?',
-  'Controla o tipo de renderização de um elemento, como block, inline ou flex.'
-);
+'CSS',
+'Como centralizar um texto com CSS?',
+'Utilize a propriedade "text-align: center;" no elemento pai.'
+)
 
 criaCartao(
-  'CSS',
-  'Como aplicar uma classe em CSS?',
-  'Use um ponto seguido do nome da classe. Exemplo: .minhaClasse'
-);
+'CSS',
+'Como se aplica um estilo a todos os parágrafos de uma página?',
+'Usando o seletor "p" no CSS, ex: p { font-size: 16px; }'
+)
 
 criaCartao(
-  'JavaScript',
-  'O que é JavaScript?',
-  'JavaScript é uma linguagem de programação usada para criar interatividade em páginas web.'
-);
+'JavaScript',
+'O que é JavaScript?',
+'É uma linguagem de programação usada para criar interatividade em páginas web.'
+)
 
 criaCartao(
-  'JavaScript',
-  'Como declarar uma variável?',
-  'Use let, const ou var. Exemplo: let nome = "Maria";'
-);
+'JavaScript',
+'Como declarar uma variável em JavaScript?',
+'Pode-se usar "var", "let" ou "const". Ex: let nome = "João";'
+)
 
 criaCartao(
-  'JavaScript',
-  'O que faz a função alert()?',
-  'Exibe uma caixa de alerta no navegador com uma mensagem.'
-);
+'JavaScript',
+'Qual comando exibe algo no console?',
+'O comando "console.log()" exibe mensagens no console.'
+)
 
 criaCartao(
-  'JavaScript',
-  'Como criar uma função em JavaScript?',
-  'Use a palavra-chave function. Exemplo: function ola() { console.log("Olá"); }'
-);
+'JavaScript',
+'Como criar uma função em JavaScript?',
+'function minhaFuncao() { // código }'
+)
 
 criaCartao(
-  'JavaScript',
-  'O que é o DOM?',
-  'DOM é a representação em árvore dos elementos HTML que o JavaScript pode manipular.'
-);
+'JavaScript',
+'O que faz o método "addEventListener"?',
+'Ele adiciona um ouvinte de evento a um elemento, permitindo executar código quando o evento ocorre.'
+)
